@@ -1,0 +1,4 @@
+near-native-1.pdb.npz	0.999114
+near-native-2.pdb.npz	0.866755
+non-native-1.pdb.npz	0.226350
+non-native-2.pdb.npz	0.198732
