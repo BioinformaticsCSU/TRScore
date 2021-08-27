@@ -1,6 +1,6 @@
 # TRScore
 
-## source codes: https://github.com/lcmj520/TRScore
+## source codes: https://github.com/BioinformaticsCSU/TRScore
 ## What is TRScore?
 ** TRScore is a scoring method for protein-protein docking, which combined 3D convolutional ResNet and physicochemical features of protein atoms.**
 
@@ -16,13 +16,13 @@ TRScore was extensively evaluated on diverse test sets including the ZDOCK bench
 
 
 ## data preprocessing:
-![Fig_1](https://github.com/lcmj520/TRScore/blob/master/Fig_1.png)
+![Fig_1](https://github.com/BioinformaticsCSU/TRScore/blob/master/Fig_1.png)
 
 ## Architecture of TRScore:
-![Fig_2](https://github.com/lcmj520/TRScore/blob/master/Fig_2.png)
+![Fig_2](https://github.com/BioinformaticsCSU/TRScore/blob/master/Fig_2.png)
 
 ## Results on DockGround decoys set:
-![Fig_3](https://github.com/lcmj520/TRScore/blob/master/Fig_3.png)
+![Fig_3](https://github.com/BioinformaticsCSU/TRScore/blob/master/Fig_3.png)
 
 (Only performance in DockGround decoys set, more details in paper please)
 
