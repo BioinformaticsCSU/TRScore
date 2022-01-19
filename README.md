@@ -21,10 +21,15 @@ TRScore was extensively evaluated on diverse test sets including the ZDOCK bench
 ## Architecture of TRScore:
 ![Fig_2](https://github.com/BioinformaticsCSU/TRScore/blob/master/Fig_2.png)
 
-## Results on DockGround decoys set:
+## Results on BM5-43 test set:
 ![Fig_3](https://github.com/BioinformaticsCSU/TRScore/blob/master/Fig_3.png)
 
-(Only performance in DockGround decoys set, more details in paper please)
+(Only performance in BM5-43 test set, more details in paper please)
+
+## Results on DockGround test set:
+![Fig_4](https://github.com/BioinformaticsCSU/TRScore/blob/master/Fig_4.png)
+
+(Only performance in DockGround test set, more details in paper please)
 
 ## Reference:
 ```
