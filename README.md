@@ -43,6 +43,8 @@ DOVE: https://github.com/kiharalab/DOVE/
 * src/BuildModel.py: source codes of model structure of TRScore.
 * src/prepare.py: to voxelize protein-protein interface from input decoys (PDB files) into 3D grid labeled by the number of atoms in different physicochemical classes from AtomTypeDictionary.py. Additionally, these 3D grids (NPZ files) will be stored in working directory.
 * src/predict.py: source codes of predicting functions used in main.py.
+* examples: the folder stored some examples.
+* models: the folder stored 4-fold models trained by our lab.
 
 # Usage
 ```
@@ -59,7 +61,7 @@ prepare.py:
 ```
 ## 1. predict all PDB files in examples/complexes
 ```
-python main.py -F examples/complexes -M models/model.pt -W examples/NPZ
+python main.py -F examples/complexes -M models/model1.pt -W examples/NPZ
 ```
 ## 2. prepare your own NPZ files
 ```
